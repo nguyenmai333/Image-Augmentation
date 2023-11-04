@@ -1,8 +1,6 @@
 import argparse, os
 from export import addFilter
 
-
-
 def main():
     parser = argparse.ArgumentParser(description="Process images and labels directories")
     parser.add_argument("--images", required=True, help="Path to the images directory")
