@@ -1,4 +1,4 @@
-# Label Image Enhancement
+# Image Augmentation
 
 To create various versions or variants of the original image with different effects such as blur, noise, and adjusting the brightness and contrast. This helps diversify the dataset and provides variability in training machine learning models and computer vision systems.
 
